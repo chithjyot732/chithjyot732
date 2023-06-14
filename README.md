@@ -1,3 +1,5 @@
+![logo](https://github.com/chithjyot732/chithjyot732/blob/main/MYBANNER.png)
+
 <h1 align="center">Hi 👋, I'm Chithjyot Kaur</h1>
 <h3 align="center">An enthusiastic B.Tech CSE student with strong problem-solving skills. Certified with Microsoft Azure Fundamentals. Passionate about Cloud Computing concepts and Front-end Web Development. NPTEL certified in Data Structures and Algorithms and DBMS.</h3>
 
