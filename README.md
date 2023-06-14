@@ -1,4 +1,4 @@
-![logo](https://github.com/chithjyot732/chithjyot732/blob/main/MYBANNER.png)
+![Logo](https://github.com/chithjyot732/chithjyot732/blob/main/MYBANNER.png)
 
 <h1 align="center">Hi 👋, I'm Chithjyot Kaur</h1>
 <h3 align="center">An enthusiastic B.Tech CSE student with strong problem-solving skills. Certified with Microsoft Azure Fundamentals. Passionate about Cloud Computing concepts and Front-end Web Development. NPTEL certified in Data Structures and Algorithms and DBMS.</h3>
@@ -11,11 +11,10 @@
 
 - 📫 How to reach me **chithjyot0703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hTq_mR0uJS_NRnPN_etFCY10kAhY4eQC/view?usp=sharing](https://drive.google.com/file/d/1hTq_mR0uJS_NRnPN_etFCY10kAhY4eQC/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1hTq_mR0uJS_NRnPN_etFCY10kAhY4eQC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chithjyotkaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chithjyotkaur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chithjyot kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chithjyot kaur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chithjyot0703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chithjyot0703" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chithjyot0703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chithjyot0703" height="30" width="40" /></a>
