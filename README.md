@@ -1,13 +1,13 @@
 ![Logo](https://github.com/chithjyot732/chithjyot732/blob/main/abc.png)
 
 <h1 align="center">Hi there! I'm Chithjyot Kaur👋</h1>
-<h3 align="center">An enthusiastic B.Tech CSE student with strong problem-solving skills. Certified with Microsoft Azure Fundamentals. Passionate about Cloud Computing concepts and Front-end Web Development. NPTEL certified in Data Structures and Algorithms and DBMS.</h3>
+<h3 align="center">An enthusiastic B.Tech CSE student with strong problem-solving skills. I've done my specialization in the field of Cloud Computing. I'm a Full Stack Web Developer and I work with technologies like React, Node, Express and MongoDB. Microsoft certified in Azure Fundamentals and NPTEL certified in Data Structures and Algorithms and DBMS.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chithjyot732&label=Profile%20views&color=0e75b6&style=flat" alt="chithjyot732" /> </p>
 
-- 🔭 I’m currently learning **Full Stack Development Technologies**
+- 🔭 I’m currently learning **Various Full Stack Development Technologies and Machine Learning Tools**
 
 - 📫 How to reach me **chithjyot0703@gmail.com**
 
